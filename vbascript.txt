@@ -1,0 +1,5 @@
+Sub Ticker ()
+
+We begin by assigning the variables
+
+Dim ticker as String
