@@ -7,4 +7,4 @@ For this homework, we are going to run a vba code on the "alphabetical_tesing.xl
 
 ## Starting Homework
 
-First, we are going to assign variables
+First, we are going to assign variables, then setting certain conditions
