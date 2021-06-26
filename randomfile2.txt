@@ -1,5 +1,0 @@
-git status
-git add <filename>
-git reset 
-git commit -m 'message'
-git push
