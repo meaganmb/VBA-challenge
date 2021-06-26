@@ -8,3 +8,7 @@ For this homework, we are going to run a vba code on the "alphabetical_tesing.xl
 ## Solution
 
 I've upload the vba file which for some reason came out as a .bas file. If there's an error with that, look at vbascript.txt file which has the same vba code used to execute code for the homework.
+
+### Update
+
+I've recently added a .vbs file that has the same code
